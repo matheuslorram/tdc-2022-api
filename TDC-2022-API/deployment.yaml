@@ -5,7 +5,7 @@ metadata:
   labels:
     app: tdc-2022-api
 spec:
-  replicas: 20
+  replicas: 5
   selector:
     matchLabels:
       app: tdc-2022-api
